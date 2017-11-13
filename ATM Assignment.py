@@ -26,8 +26,8 @@ q.enqueue("Simon")
 q.enqueue("Kuda")
 q.enqueue("Lumumba")
 q.enqueue("Simba")
-q.enqueue("Mugabe")
-q.enqueue("Munangagwa")
+q.enqueue("Grace")
+q.enqueue("Simbarashe")
 
 start = time.time()
 #A "for loop" in most, if not all, programming languages is a mechanism to run a piece of code more than once. This is as below.
